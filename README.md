@@ -1,4 +1,4 @@
-# 📡 Internship Report – IIT Patna (2025)
+# 📡 Internship Report – IIT Patna (2024)
 
 **Title:** Wireless Communication and 5G Signal Processing Algorithms  
 **Intern:** Jyotiraditya (BTECH/15053/22)  
