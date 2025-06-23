@@ -1,8 +1,6 @@
 # 📡 Internship Report – IIT Patna (2024)
 
-**Title:** Wireless Communication and its
-Application in 5G-based Signal
-Processing Algorithms /br 
+**Title:** Wireless Communication and its Application in 5G-based Signal Processing Algorithms 
 **Intern:** Jyotiraditya (BTECH/15053/22)  
 **Institution:** Birla Institute of Technology, Mesra  
 **Host Institute:** IIT Patna  
